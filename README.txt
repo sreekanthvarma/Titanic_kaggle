@@ -1,0 +1,1 @@
+Titanic Kaggle competition project to predict the survival rate of passengers based on various features
